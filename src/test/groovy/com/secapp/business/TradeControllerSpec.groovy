@@ -1,6 +1,5 @@
 package com.secapp.business
 
-import com.secapp.business.TradeController
 import grails.test.mixin.TestFor
 import spock.lang.Specification
 
