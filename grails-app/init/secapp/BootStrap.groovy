@@ -1,8 +1,8 @@
 package secapp
 
-import com.secapp.Role
-import com.secapp.User
-import com.secapp.UserRole
+import com.secapp.security.Role
+import com.secapp.security.User
+import com.secapp.security.UserRole
 
 class BootStrap {
 

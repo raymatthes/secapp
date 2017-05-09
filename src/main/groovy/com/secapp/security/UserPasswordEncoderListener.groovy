@@ -1,5 +1,6 @@
-package com.secapp
+package com.secapp.security
 
+import com.secapp.security.User
 import grails.plugin.springsecurity.SpringSecurityService
 import org.grails.datastore.mapping.core.Datastore
 import org.grails.datastore.mapping.engine.event.AbstractPersistenceEvent

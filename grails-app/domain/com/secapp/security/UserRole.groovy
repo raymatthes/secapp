@@ -1,4 +1,4 @@
-package com.secapp
+package com.secapp.security
 
 import grails.gorm.DetachedCriteria
 import groovy.transform.ToString
