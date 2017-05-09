@@ -11,7 +11,7 @@ class Role implements Serializable {
 
 	private static final long serialVersionUID = 1
 
-	static final String ROLE_ADMIN = 'admin'
+	static final String ROLE_ADMIN = 'ROLE_ADMIN'
 
 	String authority
 
