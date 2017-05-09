@@ -1,0 +1,4 @@
+gradle/* linguist-vendored
+grails-app/assets/* linguist-vendored
+grails-app/i18n/* linguist-vendored
+grails-app/views/* linguist-vendored
